@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1569145446447.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CB4A8F3E",
+    "lastKnownWriteTime" : 1568970794,
+    "last_content_update" : 1569145446447,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "contentUrl" : "content?title=R+packages+available&file=8b1e3f4c47b94169a213c086cc8ca2fe",
+        "title" : "R packages available"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "urlcontent"
+}

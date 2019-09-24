@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568965538895.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1047131935",
+    "id" : "A97D8BBD",
+    "lastKnownWriteTime" : 1568967028,
+    "last_content_update" : 1568967028784,
+    "path" : "C:/Users/user/Desktop/tidyweek/04-Import.Rmd",
+    "project_path" : "04-Import.Rmd",
+    "properties" : {
+        "cursorPosition" : "86,37",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

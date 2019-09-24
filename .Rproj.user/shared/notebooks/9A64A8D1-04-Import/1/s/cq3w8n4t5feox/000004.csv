@@ -1,0 +1,6 @@
+"0","library(haven)"
+"0",""
+"0",""
+"0","spss_data <- "
+"0","read_sav(""./data/bodyfat.sav"")"
+"0","spss_data"

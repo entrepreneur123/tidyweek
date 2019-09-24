@@ -1,0 +1,6 @@
+"0","#find the average rate of cases in year 2000"
+"0","df %>% "
+"0","filter(year==2000) %>% "
+"0","  select(-year) %>% "
+"0","  mutate(rate= cases/population) %>% "
+"0","  summarise(avg=mean(rate))"

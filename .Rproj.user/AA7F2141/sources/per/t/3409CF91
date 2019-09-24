@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568967479942.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3007770963",
+    "id" : "3409CF91",
+    "lastKnownWriteTime" : 1568970794,
+    "last_content_update" : 1569145447223,
+    "path" : "C:/Users/user/Desktop/tidyweek/02-Transform.Rmd",
+    "project_path" : "02-Transform.Rmd",
+    "properties" : {
+        "cursorPosition" : "148,72",
+        "last_setup_crc32" : "308C15Bf5e83c58",
+        "scrollLine" : "121"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

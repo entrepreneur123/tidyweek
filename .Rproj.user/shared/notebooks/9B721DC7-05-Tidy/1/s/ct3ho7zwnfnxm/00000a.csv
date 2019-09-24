@@ -1,0 +1,6 @@
+"0","library(tidyr)"
+"0","library(dplyr)"
+"0","df <- merge( table_a,table_b)"
+"0",""
+"0",""
+"0","df"

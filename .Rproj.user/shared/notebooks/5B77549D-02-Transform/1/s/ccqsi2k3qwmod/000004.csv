@@ -1,0 +1,8 @@
+"0","gapminder_asc <- gapminder %>%"
+"0","  filter(year==2007)%>%"
+"0","  arrange(desc(pop))"
+"0","  "
+"0","  "
+"0","  "
+"0","# displays data"
+"0","gapminder_asc "
